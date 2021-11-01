@@ -15,7 +15,3 @@ ENV CLASSPATH=${CP}:.:/jade/dist/jade.jar
 
 WORKDIR /app
 CMD javac -d . *.java
-
-
-
-
