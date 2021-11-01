@@ -1,6 +1,6 @@
 This is the source Dockerfile for the [`masoudkf/jade-java`](https://hub.docker.com/repository/docker/masoudkf/java-jade) repository on DockerHub. The image can be used for both compiling and running [JADE](https://en.wikipedia.org/wiki/Java_Agent_Development_Framework)-based applications.
 
-Warning: The official JADE [website](https://jade.tilab.com/) appears to be down at the time of this writing. As a result, the image uses another [repo](https://github.com/masoudkarimif/jade-copy) to build JADE `.jar` file. I downloaded JADE's source code a while back, and now that the official website is down, I've put everything in this [repo](https://github.com/masoudkarimif/jade-copy).
+:warning: Warning: The official JADE [website](https://jade.tilab.com/) appears to be down at the time of this writing. As a result, the image uses another [repo](https://github.com/masoudkarimif/jade-copy) to build JADE `.jar` file. I downloaded JADE's source code a while back, and now that the official website is down, I've put everything in this [repo](https://github.com/masoudkarimif/jade-copy).
 
 ## Compile
 
